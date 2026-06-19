@@ -7,6 +7,10 @@ This project was created as one of my first JavaScript exercises to practice DOM
 
 🔗 https://behrokh-dev.github.io/simple-calculator/
 
+## 📸 Preview
+
+<img width="1920" height="868" alt="Image" src="https://github.com/user-attachments/assets/d5b29cbf-0bb5-44af-ad3b-0938a5d5e2a9" />
+
 ## ✨ Features
 
 - ➕ Addition
@@ -23,11 +27,6 @@ This project was created as one of my first JavaScript exercises to practice DOM
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla JS)**
-
-## 📸 Preview
-
-<img width="500" alt="Calculator Screenshot" src="./screenshot.png">
-
 
 ## 🧠 What I Learned
 
